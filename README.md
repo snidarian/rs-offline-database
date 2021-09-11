@@ -1,2 +1,2 @@
-# rs-offline-database
-Offline items database using osrsbox  Web API
+# rs-offline-database (INCLUDING UI)
+Offline items database using osrsbox Web API
